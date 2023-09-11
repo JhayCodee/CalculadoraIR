@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CalculadoraIR/static/css/main.311fb6e6.css",
+    "main.js": "/CalculadoraIR/static/js/main.637aaf57.js",
+    "static/js/787.f1036200.chunk.js": "/CalculadoraIR/static/js/787.f1036200.chunk.js",
+    "index.html": "/CalculadoraIR/index.html",
+    "main.311fb6e6.css.map": "/CalculadoraIR/static/css/main.311fb6e6.css.map",
+    "main.637aaf57.js.map": "/CalculadoraIR/static/js/main.637aaf57.js.map",
+    "787.f1036200.chunk.js.map": "/CalculadoraIR/static/js/787.f1036200.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311fb6e6.css",
+    "static/js/main.637aaf57.js"
+  ]
+}
