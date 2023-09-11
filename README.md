@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# 🚀 Calculadora de Impuesto sobre la Renta (IR) 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenido al proyecto de la Calculadora de IR, una herramienta diseñada para ayudarte a calcular tu Impuesto sobre la Renta de una manera sencilla y visual.
 
-## Available Scripts
+## 📌 Índice
 
-In the project directory, you can run:
+- [Descripción del Proyecto](#-descripción-del-proyecto)
+- [Cómo Usar](#-cómo-usar)
+- [Cómo Ejecutar el Proyecto](#-cómo-ejecutar-el-proyecto)
+- [Licencia](#-licencia)
 
-### `npm start`
+## 📝 Descripción del Proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este proyecto fue creado como parte de un curso universitario. La aplicación guía a los usuarios a través de varios pasos para calcular su Impuesto sobre la Renta basándose en su salario mensual.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Cómo Usar
 
-### `npm test`
+1. Clona el repositorio a tu máquina local usando `https://github.com/JhayCodee/CalculadoraIR.git`.
+2. Navega a la carpeta del proyecto en tu terminal.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Cómo Ejecutar el Proyecto
 
-### `npm run build`
+1. Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu sistema.
+2. Abre una terminal y navega a la carpeta del proyecto.
+3. Ejecuta `npm install` para instalar todas las dependencias necesarias.
+4. Una vez que las dependencias estén instaladas, ejecuta `npm start` para iniciar la aplicación.
+5. Abre tu navegador y visita `http://localhost:3000` para ver la aplicación en acción.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📜 Licencia
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💼 Proyecto de curso, asignatura: control | 🎓 Integrantes: Handel Vanegas, Kevin Peinado, Luis Vargas | 📚 Grupo: 4T3-CO

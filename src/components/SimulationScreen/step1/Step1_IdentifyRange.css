@@ -1,0 +1,28 @@
+.table {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
+  .table-primary {
+    background-color: #cce5ff; /* Un tono de azul más claro para destacar el rango correcto */
+  }
+  
+  .btn-primary {
+    background-color: #008CBA; /* Un tono de azul que complementa los otros colores */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  

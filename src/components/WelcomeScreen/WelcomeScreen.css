@@ -1,0 +1,17 @@
+.welcome-container {
+    background-color: #e0f7fa; /* Azul claro */
+  }
+  
+  .welcome-content {
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .welcome-title {
+    color: #00796b; /* Un tono de azul oscuro para el título */
+  }
+  
+  .welcome-text {
+    color: #004d40; /* Un tono de azul oscuro para el texto */
+  }
+  
