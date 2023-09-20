@@ -26,10 +26,6 @@ Este proyecto fue creado como parte de un curso universitario. La aplicación gu
 4. Una vez que las dependencias estén instaladas, ejecuta `npm start` para iniciar la aplicación.
 5. Abre tu navegador y visita `http://localhost:3000` para ver la aplicación en acción.
 
-## 📜 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ---
 
 💼 Proyecto de curso, asignatura: control | 🎓 Integrantes: Handel Vanegas, Kevin Peinado, Luis Vargas | 📚 Grupo: 4T3-CO
